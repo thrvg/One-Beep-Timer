@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">One Beep Timer</string>
+    <string name="start">Start</string>
+    <string name="edit">Edit</string>
+    <string name="pause">Pause</string>
+    <string name="stopandreset">Stop and Reset</string>
+    <string name="resume">Resume</string>
+    <string name="reset">Reset</string>
+    <string name="channel_name">Beep Once Timer</string>
+    <string name="channel_description">The main notification channel for Beep Once Timer</string>
+    <string name="colon">:</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="next">Next</string>
+    <string name="Title">One Beep Timer</string>
+</resources>
