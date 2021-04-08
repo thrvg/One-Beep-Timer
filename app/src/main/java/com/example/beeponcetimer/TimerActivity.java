@@ -90,8 +90,7 @@ public class TimerActivity extends AppCompatActivity {
 
     private void editTimer() {
         progressBar.setProgress(0);
-        spbtn.setText(R.string.start);
-        erbtn.setText(R.string.edit);
+
         Intent intent = new Intent(TimerActivity.this, EditActivity.class);
         startActivityForResult(intent, 1);
     }
@@ -108,7 +107,8 @@ public class TimerActivity extends AppCompatActivity {
                         hnLabel.setText(String.format("%s", returnValue.substring(0, 2)));
                         mnLabel.setText(String.format("%s", returnValue.substring(2, 4)));
                         snLabel.setText(String.format("%s", returnValue.substring(4, 6)));
-
+                        spbtn.setText(R.string.start);
+                        erbtn.setText(R.string.edit);
                     }
                 }
                 break;
