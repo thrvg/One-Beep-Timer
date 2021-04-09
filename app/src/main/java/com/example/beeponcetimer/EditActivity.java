@@ -35,7 +35,9 @@ public class EditActivity extends AppCompatActivity {
                     }
                     if (Integer.parseInt(editTime.getText().toString().substring(0, 2)) >= 0 && Integer.parseInt(editTime.getText().toString().substring(0, 2)) <= 23 &&
                             Integer.parseInt(editTime.getText().toString().substring(2, 4)) >= 0 && Integer.parseInt(editTime.getText().toString().substring(2, 4)) <= 59 &&
-                            Integer.parseInt(editTime.getText().toString().substring(4, 6)) >= 1 && Integer.parseInt(editTime.getText().toString().substring(4, 6)) <= 59) {
+                            Integer.parseInt(editTime.getText().toString().substring(4, 6)) >= 0 && Integer.parseInt(editTime.getText().toString().substring(4, 6)) <= 59
+                    &&!(Integer.parseInt(editTime.getText().toString().substring(0, 2)) == 0 && Integer.parseInt(editTime.getText().toString().substring(2,4)) == 0 &&
+                            Integer.parseInt(editTime.getText().toString().substring(4,6)) == 0)) {
                         Intent resultIntent = new Intent();
                         resultIntent.putExtra("changedTime", editTime.getText().toString());
                         setResult(Activity.RESULT_OK, resultIntent);
