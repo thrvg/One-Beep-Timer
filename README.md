@@ -1,15 +1,14 @@
 # One-Beep-Timer
 
-# <a href="https://play.google.com/store/apps/details?id=com.thrvg.beeponcetimer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" 
-    alt="https://play.google.com/store/apps/details?id=com.thrvg.beeponcetimer" width="200"></a>
-    
-    
 For those moments when you need a timer that beeps once and stops.
 
 This app is available on Google Play.
 
 Built using Java, without any dependencies. Clone and open in your IDE of choice, and you're good to go!
+
+ <a href="https://play.google.com/store/apps/details?id=com.thrvg.beeponcetimer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" 
+    alt="https://play.google.com/store/apps/details?id=com.thrvg.beeponcetimer" width="200"></a>
 
 ### Background
 
