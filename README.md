@@ -22,7 +22,7 @@ And that's how (and why) I built One Beep Timer.
 
 It is a simple app, with a clean ad-free UI, and straightforward functionality. It is a timer that beeps once (and sends a notification) to signify that the time is up without requiring any user interaction.
 
-And that's currently it. There are additional features I can add to it, but I haven't personally found the need for it. If you would like to see a particular feature built, or if you'd like to contribute/collaborate, feel free to shoot me an email at thrvg1@gmail.com!
+And that's currently it. There are definitely additional features that I can add, but I haven't personally found the need for it and so, until now, I haven't. If you would like to see a particular feature built, or if you'd like to contribute/collaborate, feel free to shoot me an email at thrvg1@gmail.com!
 
 
 
