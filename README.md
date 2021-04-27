@@ -1,6 +1,7 @@
 # One-Beep-Timer
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" alt="drawing" width="200"/>
 
 For those moments when you need a timer that beeps once and stops.
 
