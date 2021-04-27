@@ -1,6 +1,6 @@
 # One-Beep-Timer
 
-<a href="https://play.google.com/store/apps/details?id=com.thrvg.beeponcetimer">
+# <a href="https://play.google.com/store/apps/details?id=com.thrvg.beeponcetimer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" 
     alt="https://play.google.com/store/apps/details?id=com.thrvg.beeponcetimer" width="200"></a>
     
